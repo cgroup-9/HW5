@@ -1,0 +1,112 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 20px;
+}
+
+nav {
+    background-color: #2c3e50;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin-right: 20px;
+        font-weight: bold;
+    }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+#addAMovie {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    font-size: 16px;
+}
+
+.fullRowTitle {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.8em;
+}
+
+.newMovieDet form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.newMovieDet input[type="text"],
+.newMovieDet input[type="number"],
+.newMovieDet input[type="date"],
+.newMovieDet input[list] {
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.newMovieDet input:focus {
+    border-color: #2980b9;
+    outline: none;
+    box-shadow: 0 0 4px #2980b9;
+}
+
+.newMovieDet label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#submitMovie {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+}
+
+    #submitMovie:hover {
+        background-color: #1e8449;
+    }
+
+.error-msg {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+input.invalid {
+    border: 2px solid red;
+}
+
+input.valid {
+    border: 2px solid green;
+}
+
+@media screen and (max-width: 600px) {
+    #addAMovie {
+        padding: 20px;
+    }
+
+    .newMovieDet form {
+        font-size: 18px;
+    }
+
+    #submitMovie {
+        font-size: 20px;
+        padding: 14px;
+    }
+}

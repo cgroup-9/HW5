@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw2 client\\movies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:movies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\movies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:movies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addnewmovie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:addnewmovie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendmoviesdb.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:sendmoviesdb.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw2 client\\sendmoviesdb.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:sendmoviesdb.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\indexstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:indexstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\mymovies.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:mymovies.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw2 client\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\mymovies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:mymovies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw2 client\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendmoviesdbstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:sendmoviesdbstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client|solutionrelative:login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\registerstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:registerstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addnewmoviestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:addnewmoviestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\mymovies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:mymovies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addnewmovie.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CAA98F4-E1A5-5FBF-E8B6-D590BB3FF1BE}|C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW2\\HW2 client|solutionrelative:addnewmovie.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 182,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.js",
+              "RelativeDocumentMoniker": "register.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.js",
+              "RelativeToolTip": "register.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-08T23:57:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "myMovies.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\myMovies.js",
+              "RelativeDocumentMoniker": "myMovies.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\myMovies.js",
+              "RelativeToolTip": "myMovies.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T00:02:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "myMovies.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\myMovies.html",
+              "RelativeDocumentMoniker": "myMovies.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\myMovies.html",
+              "RelativeToolTip": "myMovies.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-08T23:58:24.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sendMoviesDB.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendMoviesDB.js",
+              "RelativeDocumentMoniker": "sendMoviesDB.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendMoviesDB.js",
+              "RelativeToolTip": "sendMoviesDB.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-08T23:56:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sendMoviesDB.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendMoviesDB.html",
+              "RelativeDocumentMoniker": "sendMoviesDB.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendMoviesDB.html",
+              "RelativeToolTip": "sendMoviesDB.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-08T23:55:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addNewMovie.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addNewMovie.js",
+              "RelativeDocumentMoniker": "addNewMovie.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addNewMovie.js",
+              "RelativeToolTip": "addNewMovie.js",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAQwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T00:06:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "indexStyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\indexStyleSheet.css",
+              "RelativeDocumentMoniker": "indexStyleSheet.css",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\indexStyleSheet.css",
+              "RelativeToolTip": "indexStyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-09T00:06:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.html",
+              "RelativeDocumentMoniker": "register.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.html",
+              "RelativeToolTip": "register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-17T12:10:06.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\login.js",
+              "RelativeDocumentMoniker": "login.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\login.js",
+              "RelativeToolTip": "login.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T15:38:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\auth.js",
+              "RelativeDocumentMoniker": "auth.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\auth.js",
+              "RelativeToolTip": "auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T00:03:32.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.html",
+              "RelativeDocumentMoniker": "register.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\register.html",
+              "RelativeToolTip": "register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-23T21:19:27.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "loginStyle.css",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\loginStyle.css",
+              "RelativeDocumentMoniker": "loginStyle.css",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\loginStyle.css",
+              "RelativeToolTip": "loginStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-09T00:06:48.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sendMoviesDBStyle.css",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendMoviesDBStyle.css",
+              "RelativeDocumentMoniker": "sendMoviesDBStyle.css",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\sendMoviesDBStyle.css",
+              "RelativeToolTip": "sendMoviesDBStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-08T23:57:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\login.html",
+              "RelativeDocumentMoniker": "login.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\login.html",
+              "RelativeToolTip": "login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-20T11:47:49.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-08T15:34:36.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "myMovies.css",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\myMovies.css",
+              "RelativeDocumentMoniker": "myMovies.css",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\myMovies.css",
+              "RelativeToolTip": "myMovies.css",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-08T20:10:58.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "addNewMovieStyle.css",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addNewMovieStyle.css",
+              "RelativeDocumentMoniker": "addNewMovieStyle.css",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addNewMovieStyle.css",
+              "RelativeToolTip": "addNewMovieStyle.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-20T13:26:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "registerStyle.css",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\registerStyle.css",
+              "RelativeDocumentMoniker": "registerStyle.css",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\registerStyle.css",
+              "RelativeToolTip": "registerStyle.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-26T14:15:09.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "addNewMovie.html",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addNewMovie.html",
+              "RelativeDocumentMoniker": "addNewMovie.html",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\addNewMovie.html",
+              "RelativeToolTip": "addNewMovie.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-20T11:59:28.491Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movies.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\movies.js",
+              "RelativeDocumentMoniker": "movies.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\movies.js",
+              "RelativeToolTip": "movies.js",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-21T22:08:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "movies.js",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\movies.js",
+              "RelativeDocumentMoniker": "movies.js",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW2 client\\movies.js",
+              "RelativeToolTip": "movies.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-10T19:49:58.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.csproj.AssemblyReference.cache
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.AssemblyInfoInputs.cache
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.AssemblyInfo.cs
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.csproj.CoreCompileInputs.cache
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.exe
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.deps.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.runtimeconfig.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.pdb
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.hw4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.build.hw4.props
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hw4.props
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hw4.props
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\scopedcss\bundle\hw4.styles.css
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.csproj.CopyComplete
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\refint\hw4.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.pdb
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.genruntimeconfig.cache
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\ref\hw4.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\gavri\OneDrive\שולחן העבודה\שנה ב\פיתוח צד שרת\מטלות\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\appsettings.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.staticwebassets.endpoints.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.exe
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.deps.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.runtimeconfig.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\hw4.pdb
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.csproj.AssemblyReference.cache
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.AssemblyInfoInputs.cache
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.AssemblyInfo.cs
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.csproj.CoreCompileInputs.cache
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\scopedcss\bundle\hw4.styles.css
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.hw4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.hw4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.build.hw4.props
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hw4.props
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hw4.props
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.csproj.Up2Date
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\refint\hw4.dll
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.pdb
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\hw4.genruntimeconfig.cache
+C:\Users\mikaa\Desktop\מדעי המחשב\רופין\שנה ב\סמסטר ד\צד שרת\HW\HW5\מטלה 4\מטלה 4\HW4 server\hw4\hw4\obj\Debug\net6.0\ref\hw4.dll

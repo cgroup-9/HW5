@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw4 server\\hw4\\hw4\\project\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|solutionrelative:hw4\\project\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw4 server\\hw4\\hw4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|solutionrelative:hw4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw4 server\\hw4\\hw4\\dal\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|solutionrelative:hw4\\dal\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw4 server\\hw4\\hw4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|solutionrelative:hw4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|c:\\users\\mikaa\\desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\hw\\hw5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\hw4 server\\hw4\\hw4\\project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA142-E042-49F4-ADDE-727D87F090B9}|hw4\\hw4.csproj|solutionrelative:hw4\\project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Project\\Movies.cs",
+              "RelativeDocumentMoniker": "hw4\\Project\\Movies.cs",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Project\\Movies.cs",
+              "RelativeToolTip": "hw4\\Project\\Movies.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:15:12.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBservices.cs",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\DAL\\DBservices.cs",
+              "RelativeDocumentMoniker": "hw4\\DAL\\DBservices.cs",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\DAL\\DBservices.cs",
+              "RelativeToolTip": "hw4\\DAL\\DBservices.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAswNgBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:15:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "hw4\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "hw4\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:15:12.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Project\\Users.cs",
+              "RelativeDocumentMoniker": "hw4\\Project\\Users.cs",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Project\\Users.cs",
+              "RelativeToolTip": "hw4\\Project\\Users.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:15:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "hw4\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\mikaa\\Desktop\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D3\\\u05E6\u05D3 \u05E9\u05E8\u05EA\\HW\\HW5\\\u05DE\u05D8\u05DC\u05D4 4\\\u05DE\u05D8\u05DC\u05D4 4\\HW4 server\\hw4\\hw4\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "hw4\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwHQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:15:12.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
