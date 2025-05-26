@@ -96,6 +96,22 @@
   },
   {
     "ContainingType": "hw4.Controllers.MoviesController",
+    "Method": "RentMovie",
+    "RelativePath": "api/Movies/rent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rent",
+        "Type": "hw4.Project.RentedMovie",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hw4.Controllers.MoviesController",
     "Method": "GetByTitle",
     "RelativePath": "api/Movies/search",
     "HttpMethod": "GET",

@@ -5,7 +5,7 @@ namespace hw4.Project
 {
     public class Movies
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
         public string Url { get; set; } = string.Empty;
         public string PrimaryTitle { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
@@ -23,11 +23,11 @@ namespace hw4.Project
         public int? PriceToRent { get; set; }
 
         // Insert movie into database
-        public bool Insert()
+        public int Insert()
         {
             DBservices db = new DBservices();
             int result = db.InsertMovie(this);
-            return result > 0;
+            return result;
         }
 
         // Read all movies from DB

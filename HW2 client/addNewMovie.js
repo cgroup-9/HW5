@@ -23,15 +23,18 @@
     }
 
     function addToCartSuc(res) {
-        if (res === true) {
-            alert("🎬 Movie added successfully!");
-        } else {
-            alert("⚠️ Movie already exists.");
-        }
+        console.log("Success response:", res);
+        alert("🎬 Movie added successfully!");
     }
 
     function addToCartFa(err) {
-        alert("Failed to add movie: " + err.statusText);
+        let serverMessage = "Unknown error";
+        if (err.responseJSON && err.responseJSON.message) {
+            serverMessage = err.responseJSON.message;
+        } else if (err.responseText) {
+            serverMessage = err.responseText;
+        }
+        alert("Failed to add movie: " + serverMessage);
     }
 
     divAddAMovie.empty();
@@ -92,6 +95,8 @@
 
             Number Of Votes: <input type="number" id="numVotes" value="0" placeholder="e.g. 250000"><div class="error-msg" id="err-numVotes"></div><br>
 
+            Price To Rent: <input type="number" id="priceToRent" value="0" placeholder="e.g. 25"><div class="error-msg" id="err-priceToRent"></div><br>
+
             <button type="button" id="submitMovie">Send Movie</button>
         </form>
     </div>
@@ -112,7 +117,8 @@
             { id: "runtimeMinutes", required: true, regex: /^\d+$/, msg: "Runtime Minutes must be a number." },
             { id: "isAdult", required: false, regex: /^(true|false)$/i, msg: "IsAdult must be 'true' or 'false'." },
             { id: "averageRating", required: false, regex: /^\d+(\.\d+)?$/, msg: "Average Rating must be a valid number." },
-            { id: "numVotes", required: false, regex: /^\d+$/, msg: "Number of Votes must be a valid number." }
+            { id: "numVotes", required: false, regex: /^\d+$/, msg: "Number of Votes must be a valid number." },
+            { id: "priceToRent", required: false, regex: /^\d+$/, msg: "Price To Rent must be a valid number." }
         ];
 
         let hasError = false;
@@ -238,7 +244,8 @@
             isAdult: $("#isAdult").val().toLowerCase() === "true",
             runtimeMinutes: Number($("#runtimeMinutes").val()),
             averageRating: Number($("#averageRating").val()) || 0,
-            numVotes: Number($("#numVotes").val()) || 0
+            numVotes: Number($("#numVotes").val()) || 0,
+            priceToRent: Number($("#priceToRent").val()) || 0
         };
 
         addToCart(movieToSend);

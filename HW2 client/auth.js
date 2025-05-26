@@ -1,5 +1,6 @@
 ﻿function getCurrentUser() {
-    return sessionStorage.getItem("currentUser");   
+    const json = sessionStorage.getItem("currentUser");
+    return json ? JSON.parse(json) : null;
 }
 
 function requireLogin() {
@@ -13,8 +14,7 @@ function requireLogin() {
 }
 
 function logout() {
-    sessionStorage.removeItem("isLoggedIn");
-    sessionStorage.removeItem("currentUser");
+    sessionStorage.clear();
     alert("Logged out successfully!");
     location.href = "index.html";
 }

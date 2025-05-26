@@ -65,9 +65,11 @@ namespace hw4.Controllers
         {
             try
             {
-                bool success = movie.Insert();
-                if (success)
-                    return Ok("Movie inserted successfully.");
+                int result = movie.Insert();
+                if (result == 0)
+                    return Ok(new { success = true, message = "Movie inserted successfully." });
+                else if (result == 3)
+                    return BadRequest("A movie with this title already exists.");
                 else
                     return StatusCode(500, "Failed to insert movie.");
             }
@@ -76,30 +78,68 @@ namespace hw4.Controllers
                 return StatusCode(500, $"Server error: {ex.Message}");
             }
         }
+
         [HttpPost("bulk")]
         public IActionResult InsertBulkMovies([FromBody] List<Movies> movies)
         {
+            int insertedCount = 0;
+            List<string> duplicateTitles = new();
+            List<string> failedTitles = new();
+
+            foreach (var movie in movies)
+            {
+                try
+                {
+                    int result = movie.Insert();
+
+                    if (result == 0)
+                        insertedCount++;
+                    else if (result == 3)
+                        duplicateTitles.Add(movie.PrimaryTitle);
+                    else
+                        failedTitles.Add(movie.PrimaryTitle);
+                }
+                catch (Exception ex)
+                {
+                    failedTitles.Add(movie.PrimaryTitle + $" (Error: {ex.Message})");
+                }
+            }
+
+            return Ok(new
+            {
+                Inserted = insertedCount,
+                Duplicates = duplicateTitles,
+                Failed = failedTitles,
+                Total = movies.Count
+            });
+        }
+        // POST api/Movies/rent
+
+        [HttpPost("rent")]
+        public IActionResult RentMovie([FromBody] RentedMovie rent)
+        {
             try
             {
-                int insertedCount = 0;
-                foreach (var movie in movies)
+                if (rent.RentDays <= 0)
                 {
-                    // לדוגמה - הכנסת כל סרט למסד נתונים
-                    if (movie.Insert())
-                        insertedCount++;
+                    return BadRequest("Invalid number of rental days.");
                 }
 
-                return Ok(new
-                {
-                    Inserted = insertedCount,
-                    Total = movies.Count
-                });
+                int result = rent.Rent();
+                if (result > 0)
+                    return Ok("🎬 Rental completed successfully.");
+                else
+                    return BadRequest("Failed to rent the movie.");
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"❌ שגיאה בשרת: {ex.Message}");
+                return StatusCode(500, $"Server error: {ex.Message}");
             }
         }
+
+
+
+
 
         // PUT api/Movies/{id}
         [HttpPut("{id}")]

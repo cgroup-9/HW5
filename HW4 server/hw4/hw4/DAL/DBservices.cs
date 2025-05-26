@@ -289,15 +289,25 @@ namespace hw4.Project
                 { "@NumVotes", movie.NumVotes }
             };
 
+            // רק אם נשלח ערך מחיר – נוסיף לפרמטרים
+            if (movie.PriceToRent.HasValue)
+            {
+                paramDic.Add("@PriceToRent", movie.PriceToRent.Value);
+            }
+
+
             cmd = CreateCommandWithStoredProcedureGeneral("SP_InsertMovie", con, paramDic);
 
             try
             {
-                return cmd.ExecuteNonQuery();
+                cmd.ExecuteNonQuery();
+                return 0;
             }
-            catch (Exception ex)
+            catch (SqlException ex)
             {
-                throw ex;
+                if (ex.Number == 2627 || ex.Number == 2601)
+                    return 3; // Duplicate title
+                throw;
             }
             finally
             {
@@ -488,6 +498,30 @@ namespace hw4.Project
             catch (Exception ex)
             {
                 throw ex;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
+       
+        public int RentMovie(RentedMovie rent)
+        {
+            SqlConnection con = connect("myProjDB");
+
+            Dictionary<string, object> paramDic = new()
+    {
+        { "@userId", rent.UserId },
+        { "@movieId", rent.MovieId },
+        { "@days", rent.RentDays }
+    };
+
+            SqlCommand cmd = CreateCommandWithStoredProcedureGeneral("SP_RentMovie", con, paramDic);
+
+            try
+            {
+                return cmd.ExecuteNonQuery();
             }
             finally
             {

@@ -44,7 +44,7 @@
         ajaxCall("POST", 'https://localhost:7110/api/User/login', JSON.stringify(user),
             res => {
                 sessionStorage.setItem("isLoggedIn", "true");
-                sessionStorage.setItem("currentUser", res.name);
+                sessionStorage.setItem("currentUser", JSON.stringify(res));
                 alert("✅ Logged-in!");
                 location.href = "index.html";
             },
@@ -55,5 +55,6 @@
                     alert("❌ Server error: " + err.statusText);
             }
         );
+
     });
 });
