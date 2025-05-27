@@ -112,6 +112,22 @@
   },
   {
     "ContainingType": "hw4.Controllers.MoviesController",
+    "Method": "GetRentedMoviesByUserId",
+    "RelativePath": "api/Movies/rented/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hw4.Controllers.MoviesController",
     "Method": "GetByTitle",
     "RelativePath": "api/Movies/search",
     "HttpMethod": "GET",

@@ -1,7 +1,6 @@
 ﻿$(document).ready(() => {
     const btnLoad = $("#loadMovies");
     const divCards = $("#movieCard");
-    const authBtn = $("#authBtn");
 
     function isDevEnv() {
         return location.host.includes("localhost");
@@ -13,19 +12,6 @@
         : "https://proj.ruppin.ac.il/cgroup9/test2/tar1";
     const url = `${baseApiUrl}/api/Movies`;
 
-    function updateAuthButton() {
-        const user = sessionStorage.getItem("currentUser");
-        const btn = $("#authBtn");
-
-        if (user) {
-            const parsed = JSON.parse(user);
-            btn.text(`🚪 Logout (${parsed.name})`).off("click").on("click", logout);
-        } else {
-            btn.text("🔐 Login").off("click").on("click", () => location.href = "login.html");
-        }
-    }
-
-    updateAuthButton();
     let movies = [];
 
     btnLoad.click(function () {
@@ -84,6 +70,7 @@
             alert("❌ This movie has no rental price defined.");
             return;
         }
+
         const modalHtml = `
     <div class="modal-content">
         <span class="close" id="closeModal">&times;</span>
@@ -97,9 +84,10 @@
             <button type="button" id="cancelRentBtn">Cancel</button>
         </form>
     </div>`;
-        $("#rentModal").html(modalHtml).fadeIn();
 
+        $("#rentModal").html(modalHtml).fadeIn();
     });
+
 
 
     // חישוב מחיר השכרה
@@ -113,6 +101,13 @@
             $("#totalPriceDisplay").text(total);
         } else {
             $("#totalPriceDisplay").text("0");
+        }
+    });
+
+    $(window).on("click", function (event) {
+        const modal = document.getElementById("rentModal");
+        if (event.target === modal) {
+            $("#rentModal").fadeOut();
         }
     });
 

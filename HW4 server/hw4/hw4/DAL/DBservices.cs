@@ -354,7 +354,8 @@ namespace hw4.Project
                         IsAdult = Convert.ToBoolean(reader["IsAdult"]),
                         RuntimeMinutes = Convert.ToInt32(reader["RuntimeMinutes"]),
                         AverageRating = float.Parse(reader["AverageRating"].ToString()),
-                        NumVotes = Convert.ToInt32(reader["NumVotes"])
+                        NumVotes = Convert.ToInt32(reader["NumVotes"]),
+                        PriceToRent = Convert.ToInt32(reader["PriceToRent"])
                     };
                     movies.Add(m);
                 }
@@ -505,17 +506,19 @@ namespace hw4.Project
             }
         }
 
-       
+
         public int RentMovie(RentedMovie rent)
         {
             SqlConnection con = connect("myProjDB");
 
             Dictionary<string, object> paramDic = new()
-    {
-        { "@userId", rent.UserId },
-        { "@movieId", rent.MovieId },
-        { "@days", rent.RentDays }
-    };
+            {
+                { "@userId", rent.UserId },
+                { "@movieId", rent.MovieId },
+                { "@rentStart", rent.RentStart },
+                { "@rentEnd", rent.RentEnd },
+                { "@totalPrice", rent.TotalPrice }
+            };
 
             SqlCommand cmd = CreateCommandWithStoredProcedureGeneral("SP_RentMovie", con, paramDic);
 
@@ -528,5 +531,44 @@ namespace hw4.Project
                 con.Close();
             }
         }
+
+        public static List<Movies> GetRentedMoviesByUserId(int userId)
+        {
+            SqlConnection con = new DBservices().connect("myProjDB");
+            Dictionary<string, object> paramDic = new() { { "@userId", userId } };
+
+            SqlCommand cmd = new DBservices().CreateCommandWithStoredProcedureGeneral("SP_GetRentedMoviesByID", con, paramDic);
+            List<Movies> result = new();
+
+            SqlDataReader reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {
+                Movies m = new Movies
+                {
+                    Id = Convert.ToInt32(reader["Id"]),
+                    PrimaryTitle = reader["PrimaryTitle"].ToString(),
+                    PrimaryImage = reader["PrimaryImage"].ToString(),
+                    Description = reader["Description"].ToString(),
+                    Year = Convert.ToInt32(reader["Year"]),
+                    ReleaseDate = Convert.ToDateTime(reader["ReleaseDate"]),
+                    Language = reader["Language"].ToString(),
+                    Budget = Convert.ToDouble(reader["Budget"]),
+                    GrossWorldwide = Convert.ToDouble(reader["GrossWorldwide"]),
+                    Genres = reader["Genres"].ToString(),
+                    IsAdult = Convert.ToBoolean(reader["IsAdult"]),
+                    RuntimeMinutes = Convert.ToInt32(reader["RuntimeMinutes"]),
+                    AverageRating = float.Parse(reader["AverageRating"].ToString()),
+                    NumVotes = Convert.ToInt32(reader["NumVotes"]),
+                    PriceToRent = Convert.ToInt32(reader["PriceToRent"]),
+                    // את יכולה גם להוסיף RentStart/RentEnd/TotalPrice כאן אם תוסיפי אותם למחלקת Movies
+                };
+                result.Add(m);
+            }
+
+            con.Close();
+            return result;
+        }
+
+
     }
 }

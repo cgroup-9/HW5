@@ -11,8 +11,6 @@
         : "https://proj.ruppin.ac.il/cgroup9/test2/tar1"; 
     const baseUrl = `${baseApiUrl}/api/Movies`;
 
-    document.getElementById("logoutBtn").addEventListener("click", logout);
-
   
     function deleteMovie(id) {
         $.ajax({
@@ -137,15 +135,22 @@
         });
     }
 
-    
+    const currentUser = JSON.parse(sessionStorage.getItem("currentUser"));
+    if (!currentUser) {
+        alert("You must be logged in.");
+        window.location.href = "login.html";
+        return;
+    }
+
     $.ajax({
         type: "GET",
-        url: baseUrl,
+        url: `${baseUrl}/rented/${currentUser.id}`,
         success: function (data) {
             renderMovies(data);
         },
         error: function (err) {
-            alert("❌ Failed to load movies: " + err.statusText);
+            alert("❌ Failed to load rented movies: " + err.statusText);
         }
     });
+
 });

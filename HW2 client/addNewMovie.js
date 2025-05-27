@@ -10,8 +10,6 @@
         : "https://proj.ruppin.ac.il/cgroup9/test2/tar1"; 
     const url = `${baseApiUrl}/api/Movies`;
 
-    document.getElementById("logoutBtn").addEventListener("click", logout);
-
     function addToCart(movie) {
         try {
             console.log("Sending movie:", JSON.stringify(movie));

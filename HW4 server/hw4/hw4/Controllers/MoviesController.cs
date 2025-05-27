@@ -120,9 +120,9 @@ namespace hw4.Controllers
         {
             try
             {
-                if (rent.RentDays <= 0)
+                if (rent.RentStart >= rent.RentEnd)
                 {
-                    return BadRequest("Invalid number of rental days.");
+                    return BadRequest("End date must be after start date.");
                 }
 
                 int result = rent.Rent();
@@ -136,6 +136,22 @@ namespace hw4.Controllers
                 return StatusCode(500, $"Server error: {ex.Message}");
             }
         }
+
+        // GET api/Movies/rented/{userId}
+        [HttpGet("rented/{userId}")]
+        public IActionResult GetRentedMoviesByUserId(int userId)
+        {
+            try
+            {
+                var rentedMovies = DBservices.GetRentedMoviesByUserId(userId);
+                return Ok(rentedMovies);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Server error: {ex.Message}");
+            }
+        }
+
 
 
 

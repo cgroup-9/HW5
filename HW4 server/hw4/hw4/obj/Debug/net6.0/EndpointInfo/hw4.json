@@ -254,6 +254,29 @@
         }
       }
     },
+    "/api/Movies/rented/{userId}": {
+      "get": {
+        "tags": [
+          "Movies"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/User/register": {
       "post": {
         "tags": [
@@ -593,9 +616,17 @@
             "type": "integer",
             "format": "int32"
           },
-          "rentDays": {
-            "type": "integer",
-            "format": "int32"
+          "rentStart": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "rentEnd": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "totalPrice": {
+            "type": "number",
+            "format": "float"
           }
         },
         "additionalProperties": false

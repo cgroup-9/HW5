@@ -4,12 +4,11 @@
 }
 
 function requireLogin() {
-    
-    if (location.pathname.endsWith("index.html")) return;
-
-    if (!getCurrentUser()) {                      
-        if (!location.pathname.endsWith("login.html"))
-            location.href = "login.html";
+    // רק אם זה לא הדף הראשי ולא login.html
+    if (!location.pathname.endsWith("index.html") &&
+        !location.pathname.endsWith("login.html") &&
+        !getCurrentUser()) {
+        location.href = "login.html";
     }
 }
 
@@ -19,5 +18,23 @@ function logout() {
     location.href = "index.html";
 }
 
+function updateAuthButton() {
+    const btn = document.getElementById("authBtn");
+    const user = getCurrentUser();
 
-document.addEventListener("DOMContentLoaded", requireLogin);
+    if (!btn) return; // אם אין כפתור בדף – לצאת בשקט
+
+    if (user) {
+        btn.textContent = `🚪 Logout (${user.name})`;
+        btn.onclick = logout;
+    } else {
+        btn.textContent = "🔐 Login";
+        btn.onclick = () => location.href = "login.html";
+    }
+}
+
+// הפעלה אוטומטית לכל עמוד
+document.addEventListener("DOMContentLoaded", () => {
+    requireLogin();
+    updateAuthButton();
+});
