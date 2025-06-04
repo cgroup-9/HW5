@@ -1,5 +1,6 @@
 ﻿using hw4.Project;
 using Microsoft.AspNetCore.Mvc;
+using System.Text.Json;
 
 namespace hw4.Controllers
 {
@@ -89,6 +90,41 @@ namespace hw4.Controllers
                 return BadRequest(new { message = "Unknown error occurred." });
             }
         }
+
+
+        [HttpPut("update-status")]
+        public async Task<IActionResult> UpdateUserStatus()
+        {
+            try
+            {
+                using var reader = new StreamReader(Request.Body);
+                var body = await reader.ReadToEndAsync();
+
+                var json = JsonDocument.Parse(body);
+                var root = json.RootElement;
+
+                int id = root.GetProperty("id").GetInt32();
+                bool active = root.GetProperty("active").GetBoolean();
+
+                Console.WriteLine($"📥 Received → id: {id}, active: {active}");
+
+                Users user = new Users { Id = id };
+                int result = user.UpdateStatus(active);
+
+                return result switch
+                {
+                    1 => Ok(new { message = "User status updated successfully." }),
+                    0 => NotFound(new { message = "User not found." }),
+                    _ => BadRequest(new { message = "Unknown error occurred." })
+                };
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = "❌ Failed to parse request", error = ex.Message });
+            }
+        }
+
+
 
 
         // DELETE: api/User/delete-by-email/{email}

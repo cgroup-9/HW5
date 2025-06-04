@@ -43,6 +43,11 @@ namespace hw4.Project
         {
             return db.UpdateUser(this);
         }
+        public int UpdateStatus(bool active)
+        {
+            DBservices db = new DBservices();
+            return db.UpdateUserStatus(this.Id, active);
+        }
 
         public int SoftDeleteByEmail(string email)
         {

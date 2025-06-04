@@ -154,7 +154,6 @@ namespace hw4.Project
 
             cmd = CreateCommandWithStoredProcedureGeneral("SP_UpdateUser", con, paramDic);
 
-            // הוספת פרמטר פלט כדי לקבל את RETURN מה-SP
             SqlParameter returnValue = new SqlParameter("@ReturnVal", SqlDbType.Int);
             returnValue.Direction = ParameterDirection.ReturnValue;
             cmd.Parameters.Add(returnValue);
@@ -175,7 +174,31 @@ namespace hw4.Project
                 con.Close();
             }
         }
+        public int UpdateUserStatus(int id, bool active)
+        {
+            SqlConnection con = connect("myProjDB");
+            Dictionary<string, object> paramDic = new()
+    {
+        { "@id", id },
+        { "@active", active }
+    };
 
+            SqlCommand cmd = CreateCommandWithStoredProcedureGeneral("SP_UpdateUserStatus", con, paramDic);
+
+            try
+            {
+                int rowsAffected = cmd.ExecuteNonQuery();
+                return rowsAffected; // 1 = success, 0 = user not found
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception($"SQL Error during UpdateUserStatus: {ex.Message}", ex);
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
         public int SoftDeleteUserByEmail(string email)
         {
             SqlConnection con;
@@ -292,7 +315,7 @@ namespace hw4.Project
                 { "@NumVotes", movie.NumVotes }
             };
 
-            // רק אם נשלח ערך מחיר – נוסיף לפרמטרים
+           
             if (movie.PriceToRent.HasValue)
             {
                 paramDic.Add("@PriceToRent", movie.PriceToRent.Value);
@@ -520,14 +543,13 @@ namespace hw4.Project
                 cmd = CreateCommandWithStoredProcedureGeneral("SP_DeleteMovie", con, paramDic);
 
                 int rowsAffected = cmd.ExecuteNonQuery();
-                return rowsAffected; // יחזיר 1 אם הסרט עודכן (Soft Delete)
+                return rowsAffected; 
             }
             catch (SqlException ex)
             {
                 if (ex.Message.Contains("Movie not found or already deleted"))
                     return 0;
 
-                // מומלץ לא לבלוע שגיאות – אלא לזרוק אותן הלאה עם הקשר
                 throw new Exception($"SQL Error during DeleteMovieById: {ex.Message}", ex);
             }
             catch (Exception ex)
@@ -555,7 +577,6 @@ namespace hw4.Project
 
             SqlCommand cmd = CreateCommandWithStoredProcedureGeneral("SP_DeleteRentedMovieById", con, paramDic);
 
-            // פרמטר החזרה
             SqlParameter returnParam = new SqlParameter("@ReturnVal", SqlDbType.Int)
             {
                 Direction = ParameterDirection.ReturnValue
@@ -594,7 +615,6 @@ namespace hw4.Project
 
             try
             {
-                // הוספת פרמטר קלט מסוג RETURN
                 SqlParameter returnParam = new SqlParameter
                 {
                     Direction = ParameterDirection.ReturnValue,
@@ -602,13 +622,10 @@ namespace hw4.Project
                 };
                 cmd.Parameters.Add(returnParam);
 
-                // ביצוע הקריאה ל-SP
                 cmd.ExecuteNonQuery();
 
-                // קבלת ערך RETURN מה-SP
                 int result = (int)returnParam.Value;
 
-                // אם יש שגיאה לוגית (למשל חפיפה בזמנים) → נחזיר -1
                 if (result <= 0)
                     throw new Exception("No rows affected. Possibly duplicate rental or logic prevented execution.");
 
@@ -617,7 +634,6 @@ namespace hw4.Project
             }
             catch (SqlException ex)
             {
-                // לא צריך טיפול פנימי – נזרוק החוצה לטיפול בקונטרולר
                 throw;
             }
             finally
