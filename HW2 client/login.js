@@ -1,9 +1,17 @@
 ﻿$(document).ready(() => {
     const divLogin = $("#loginContainer");
 
+    // Detect if running locally
     function isDevEnv() {
-        return location.host.includes('localhost');
+        return location.host.includes("localhost");
     }
+
+    // Define API base URL based on environment
+    const port = 7110;
+    const baseApiUrl = isDevEnv()
+        ? `https://localhost:${port}`
+        : "https://proj.ruppin.ac.il/cgroup9/test2/tar1";
+    const loginUrl = `${baseApiUrl}/api/Users/login`;
 
     divLogin.empty();
     divLogin.append('<h2 class="fullRowTitle">Log-in</h2>');
@@ -34,15 +42,13 @@
             return alert("📛 Please enter email & password.");
         }
 
-        ajaxCall("POST", 'https://localhost:7110/api/Users/login', JSON.stringify(user),
+        ajaxCall("POST", loginUrl, JSON.stringify(user),
             res => {
-                // checking if the user is not active
                 if (res.isActive === false) {
                     alert("🚫 Your account is inactive. Please contact support.");
                     return;
                 }
 
-                
                 sessionStorage.setItem("isLoggedIn", "true");
                 sessionStorage.setItem("currentUser", JSON.stringify(res));
                 alert("✅ Logged-in!");

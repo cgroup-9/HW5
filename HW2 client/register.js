@@ -1,19 +1,23 @@
 ﻿$(document).ready(() => {
     const divAddUser = $("#registerContainer");
 
+    // Detect if running locally
     function isDevEnv() {
         return location.host.includes('localhost');
     }
 
-    //const port = 7110;
-    //const baseApiUrl = isDevEnv()
-    //    ? `https://localhost:${port}`
-    //    : "https://proj.ruppin.ac.il/cgroup9/test2/tar1"; 
-    //const url = `${baseApiUrl}/api/Users`;
+    // Define API base URL based on environment
+    const port = 7110;
+    const baseApiUrl = isDevEnv()
+        ? `https://localhost:${port}`
+        : "https://proj.ruppin.ac.il/cgroup9/test2/tar1";
+    const url = `${baseApiUrl}/api/Users/register`; // Use this URL for registration
+
+    // Function to add user to the database
     function addToUser(user) {
         try {
             console.log("Sending user:", JSON.stringify(user));
-            ajaxCall("POST",  'https://localhost:7110/api/Users/register', JSON.stringify(user), addToUserSuc, addToUserFa);
+            ajaxCall("POST", url, JSON.stringify(user), addToUserSuc, addToUserFa);
         } catch (err) {
             console.error("❌ Error before POST:", err);
             alert("Failed to send user information to the server. Please try again.");
@@ -23,7 +27,7 @@
     function addToUserSuc(res) {
         if (res === true) {
             alert("🎬 User added successfully!");
-            window.location.href = "login.html"; 
+            window.location.href = "login.html";
         } else {
             alert("⚠️ User already exists.");
         }
@@ -33,6 +37,7 @@
         alert("❌ Failed to add user: " + err.statusText);
     }
 
+    // Prepare the registration form
     divAddUser.empty();
     divAddUser.append('<h2 class="fullRowTitle">Register</h2>');
 
@@ -59,6 +64,7 @@
 
     divAddUser.append(formAddUser);
 
+    // Handle register form submission
     $("#submitRegister").click(() => {
         const userToSend = {
             name: $("#usernameTB").val().trim(),
@@ -71,6 +77,7 @@
 
         let hasError = false;
 
+        // Validation rules for form fields
         const fields = [
             {
                 id: "usernameTB",
@@ -92,6 +99,7 @@
             }
         ];
 
+        // Check if all fields are valid
         fields.forEach(({ id, value, regex, msg }) => {
             const input = $(`#${id}`);
             const errorDiv = $(`#err-${id}`);
@@ -108,7 +116,7 @@
 
         if (hasError) return;
 
-       
+        // Call the function to add the user to the server
         addToUser(userToSend);
     });
 });
